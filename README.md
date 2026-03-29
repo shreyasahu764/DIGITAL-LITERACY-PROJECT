@@ -61,7 +61,7 @@ In this module, I studied a cybercrime case and created a prevention checklist. 
 ---
 
 ## 🔗 Digital Literacy Quiz
- https://docs.google.com/forms/d/e/1FAIpQLScPx99wG7E7A_-j0nF_aGYyzmMdWsgYjKgJM53pZ5SiucxM5w/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSc3X6hIHK73LnL1yuYHUnw3raWB2HeotxjdZEIq8wGDW5Ncag/viewform?usp=publish-editor
 
 ---
 
