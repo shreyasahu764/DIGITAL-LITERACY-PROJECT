@@ -25,7 +25,7 @@ The project consists of five modules, each designed to develop a specific aspect
 ##  Module Summaries
 
 ###  Module 1: Digital Literacy Infographic
-In this module, I created a one-page infographic to explain the concept of digital literacy and its importance. The design includes key topics such as safe internet practices, risks of improper usage, and smart digital habits. This task helped me understand how to present information in a clear and visually appealing way.
+In this module, I created a one-page infographic to explain the concept of digital literacy and its importance. The design includes key topics such as safe internet practices, smart digital tools and professional online presence. This task helped me understand how to present information in a clear and visually appealing way.
 
 ---
 
