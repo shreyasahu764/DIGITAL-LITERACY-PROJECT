@@ -8,7 +8,7 @@
 
 **Branch:** Integrated Mtech Computational Data Science
 
-**Year:** 2025-2030
+**Year:** 2025-2030 1st year
 
 **Course Code:** CSE0001  
 
